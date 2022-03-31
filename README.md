@@ -60,4 +60,8 @@ Top Ending Locations shows the ending locations by most riders in New York City.
 
 ## Summary
 
+### Insights
+Insights from the results are that most riders are male and most riders take trips less than 1 hour. Hence it can be predicted who will use citibike and how long rides are in Des Moise. The problem with implementing these conclusions is that New York City is very different from Des Moise. The population, work style and travel methods are different in New York City and Des Moise. Based on the Trips by Weekday shows that most riders use citibike in the morning and evening on weekdays and afternoons on weekends. This conclusion is not based on the location of New York City so this insight can be used to implement citibike in Des Moise.
 
+### Additional Analysis
+To give additional insights to the analysis, population maps of Des Moise and tourism of Des Moise can be investigated. Using the top starting and ending locations along with population and tourism data of Des Moise can help make descisions about where to put the citibike locations. 
